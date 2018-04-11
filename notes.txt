@@ -1,0 +1,16 @@
+
+To start the jupyter notebook:
+
+~/.local/bin/jupyter-notebook
+
+---
+
+Sliders weren't showing, so followed instructions here:
+
+https://stackoverflow.com/questions/36351109/ipython-notebook-ipywidgets-does-not-show
+
+did
+
+pip3 install ipywidgets
+~/.local/bin/jupyter nbextension enable --py widgetsnbextension
+
