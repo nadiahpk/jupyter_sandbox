@@ -14,3 +14,8 @@ did
 pip3 install ipywidgets
 ~/.local/bin/jupyter nbextension enable --py widgetsnbextension
 
+---
+
+nbviewer only does static, but look here: 
+
+https://github.com/binder-examples/requirements
