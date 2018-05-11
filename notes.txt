@@ -19,3 +19,8 @@ pip3 install ipywidgets
 nbviewer only does static, but look here: 
 
 https://github.com/binder-examples/requirements
+
+---
+
+added the requirements.txt which was needed so mybinder could import numpy, matplotlib etc
+go to mybinder.org and put in the main directory for my jupyter sandbox repository
