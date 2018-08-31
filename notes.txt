@@ -24,3 +24,13 @@ https://github.com/binder-examples/requirements
 
 added the requirements.txt which was needed so mybinder could import numpy, matplotlib etc
 go to mybinder.org and put in the main directory for my jupyter sandbox repository
+
+---
+
+To get the html for a widget, in the Notebook you click on Widgets and Embed Widgets and paste it into a html file.
+See here http://minrk-ipywidgets.readthedocs.io/en/latest/embedding.html
+I need to presave the data and plots though ...
+
+---
+
+NEXT - try this, looks promising https://jakevdp.github.io/blog/2013/12/05/static-interactive-widgets/
